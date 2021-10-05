@@ -1,8 +1,8 @@
 # Run Emilia Run!
-This game mimics the well-known Chrome's Dino Game. I made this repository just to learn Godot. To play the game, visit toto35711.github.io. 
+This game mimics the well-known Chrome's Dino Game. I made this repository just to learn Godot. To play the game, visit toto35711.github.io.
 
 ## Controls
-Jump: Up button/W/Space
+Jump: Up button/W/Space\
 Slide/accelerate the fall: Down button/S
 
 # Assets
